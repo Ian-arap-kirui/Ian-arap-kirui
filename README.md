@@ -7,10 +7,13 @@
 ---
 
 ## 🛠️ Core Stack  
-**Frontend**: React | Next.js | TypeScript | Redux | Tailwind CSS  
-**Backend**: Node.js | Express | GraphQL | REST APIs  
-**DevOps**: Docker | Kubernetes | GitHub Actions  
-**UI/UX**: Figma | WCAG Standards | Responsive Design  
+
+|||
+|------------------------|--------------------|
+| **Frontend**: React, Next.js, TypeScript, Redux, Tailwind CSS | **DevOps**: Docker, Kubernetes, GitHub Actions |
+| **Backend**: Node.js, Express, GraphQL, REST APIs | **UI/UX**: Figma, WCAG Standards, Responsive Design |
+
+
 
 <div align="left">
   <!-- Frontend -->
