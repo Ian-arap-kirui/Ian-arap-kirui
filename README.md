@@ -76,9 +76,9 @@
 <div align="left">
   
 📊 **My Open-Source Journey**  
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ian-arap-kirui&theme=radical) -
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Ian-arap-kirui&theme=radical)  -
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-arap-kirui&layout=compact&theme=radical&hide_border=true)  
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ian-arap-kirui&theme=radical) 
 
 </div>
 
