@@ -10,7 +10,7 @@
 
 |||
 |------------------------|--------------------|
-| **Frontend**: Vue Js, React, Next.js, TypeScript, Redux, Tailwind CSS | **DevOps**: Docker, Kubernetes, GitHub Actions |
+| **Frontend**: Javascript(Vue, React + Vite, Next.js), TypeScript, Redux, Tailwind CSS | **DevOps**: Docker, Kubernetes, GitHub Actions |
 | **Backend**: Node.js, Express, GraphQL, REST APIs | **UI/UX**: Figma, WCAG Standards, Responsive Design |
 
 
@@ -86,16 +86,16 @@
 
 ## 💼 Highlighted Projects  
 
-| Project | Tech Stack | Key Result |  
-|---------|------------|------------|  
-| **[AfyaBook](https://github.com/...)** | MERN, GraphQL | 25% faster data fetching |  
-| **[GreenBay Travel](https://greenbaytravel.com)** | Next.js, TypeScript | 30%↑ bookings |  
-| **[Ole Kaparo Admin Panel](https://github.com/...)** | React, Redux | 40%↓ workload |  
+| Project |  Key Result |  
+|---------|------------|  
+| **[AfyaBook](https://github.com/...)**  | 25% faster data fetching |  
+| **[GreenBay Travel](https://greenbaytravel.com)**  | 30%↑ bookings |  
+| **[Ole Kaparo Admin Panel](https://github.com/...)** | 40%↓ workload |  
 
 ---
 
 ## 🏆 Career Snapshot  
-- **Scaled GreenBay Travel’s platform** to 20% traffic growth (Next.js, Stripe).  
+- **Scaled GreenBay Travel’s platform** to 20% traffic growth (Vue.js, Stripe).  
 - **Reduced customs ops costs by 30%** at Kenya Revenue Authority (Firebase, data analysis).  
 - **Certified** in DevOps (Docker, K8s) & Data Science (R, Python).  
 
