@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ian Mark Kiprotich  
-### **React & Next.js Specialist | Performance Optimizer**  
+### **Performance Optimizer**  
 🔭 **Currently**: Researching AI/ML web integrations & advanced Kubernetes orchestration  
 
 **I architect scalable, user-centric web experiences** with a focus on **speed**, **accessibility**, and **clean code**.  
@@ -10,7 +10,7 @@
 
 |||
 |------------------------|--------------------|
-| **Frontend**: React, Next.js, TypeScript, Redux, Tailwind CSS | **DevOps**: Docker, Kubernetes, GitHub Actions |
+| **Frontend**: Vue Js, React, Next.js, TypeScript, Redux, Tailwind CSS | **DevOps**: Docker, Kubernetes, GitHub Actions |
 | **Backend**: Node.js, Express, GraphQL, REST APIs | **UI/UX**: Figma, WCAG Standards, Responsive Design |
 
 
