@@ -10,8 +10,8 @@
 
 |||
 |------------------------|--------------------|
-| **Frontend**: Javascript(Vue, React + Vite, Next.js), TypeScript, Redux, Tailwind CSS | **DevOps**: Docker, Kubernetes, GitHub Actions |
-| **Backend**: Node.js, Express, GraphQL, REST APIs | **UI/UX**: Figma, WCAG Standards, Responsive Design |
+| **Frontend**: Javascript(Vue, React + Vite, Next.js), Vuex, Pinia, Vuetify, Vue Router | **DevOps**: Docker, Kubernetes, GitHub Actions |
+| **Backend**: Node.js, Express, GraphQL, REST APIs, Mongo DB, MySQL | **UI/UX**: Figma, WCAG Standards, Responsive Design |
 
 
 
